@@ -1,0 +1,6 @@
+.modal {
+  position: fixed;
+  top: 10rem;
+  margin: auto;
+  padding: 1rem;
+}
